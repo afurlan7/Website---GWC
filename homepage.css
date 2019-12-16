@@ -1,1 +1,17 @@
+.title {
+  color: gold;
+}
 
+h1 {
+ color: rgb(230, 191, 0);
+  font-family: Monospace;
+}
+
+p1 {
+  color: rgb(0, 0, 63);
+  font-family: Tahoma, Geneva, Sans-serif;d
+}
+
+.select{
+  color: rgb(0, 0, 0);
+}
