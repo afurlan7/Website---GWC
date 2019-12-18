@@ -5,13 +5,44 @@
 h1 {
  color: rgb(230, 191, 0);
   font-family: Monospace;
+  align: middle;
+}
+ 
+h2{
+  color: rgb(0, 100, 0);
+  float: middle;
 }
 
-p1 {
+h3 {
+  color: rgb(0, 100, 0);
+}
+p1{
+  color:(0,0,100);
+}
+
+p2 {
   color: rgb(0, 0, 63);
   font-family: Tahoma, Geneva, Sans-serif;d
+  text-align: center;
 }
 
 .select{
   color: rgb(0, 0, 0);
 }
+img{
+  align: middle;
+}
+
+b{
+  
+  
+}
+
+.types img{
+  float: right
+  position: absolute;
+  margin: right;
+  right= 30px;
+}
+
+
